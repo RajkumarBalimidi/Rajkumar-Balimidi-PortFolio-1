@@ -294,7 +294,7 @@
 
 .radbut .dark,.span1,.bright,.span2{
     float: right;
-    margin: 5px;
+    margin: 20px 10px 10px 0px;
 }
 .radbut .container{
     float: left;
@@ -337,7 +337,9 @@
     cursor: pointer;
     color: blue;
 }
-
+.contents #Contact{
+    float: left;
+}
 .radbut .dark:checked + .contents #Contact{
   
     background-color: black;
