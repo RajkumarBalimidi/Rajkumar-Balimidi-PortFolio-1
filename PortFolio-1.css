@@ -338,3 +338,6 @@
     color: blue;
 }
 
+.contents #Contact{
+    float: left;
+}
