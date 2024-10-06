@@ -338,6 +338,8 @@
     color: blue;
 }
 
-.contents #Contact{
-    float: left;
+.radbut .dark:checked + .contents #Contact{
+  
+    background-color: black;
+    color: white;
 }
