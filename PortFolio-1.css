@@ -294,7 +294,7 @@
 
 .radbut .dark,.span1,.bright,.span2{
     float: right;
-    margin: 8px;
+    margin: 5px;
 }
 .radbut .container{
     float: left;
@@ -344,9 +344,4 @@
   
     background-color: black;
     color: white;
-}
-
-.radbut .dark:checked body{
-    color: white;
-    background-color: black;
 }
