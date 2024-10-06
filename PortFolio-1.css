@@ -294,7 +294,7 @@
 
 .radbut .dark,.span1,.bright,.span2{
     float: right;
-    margin: 20px 10px 10px 0px;
+    margin: 8px;
 }
 .radbut .container{
     float: left;
