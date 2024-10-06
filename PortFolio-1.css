@@ -343,3 +343,8 @@
     background-color: black;
     color: white;
 }
+
+.radbut .dark:checked body{
+    color: white;
+    background-color: black;
+}
