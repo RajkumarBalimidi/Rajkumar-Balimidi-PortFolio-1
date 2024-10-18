@@ -47,7 +47,7 @@
   
 }
 .container .navbar li a p{
-    margin-left: 10px ; 
+    margin-left: 30px ; 
     display: inline-flex;
     position:absolute;
     padding-right: 20px;
@@ -178,7 +178,7 @@
     border: 2px solid rgb(10, 72, 230); 
     border-radius: 15px;
     height: auto;
-    width: 52%;
+    width: 60%;
     flex-shrink: 1;
     flex-grow: 1;
 }
@@ -196,7 +196,7 @@
 
 .contents #Education .intermediate {
     border: 2px solid rgb(10, 72, 230); 
-    width: 52%;
+    width: 60%;
     height: auto;
     margin: 40px 30px 30px 30px;
     float: left;
@@ -214,7 +214,7 @@
 
 .contents #Education .ssc {
     border: 2px solid rgb(10, 72, 230); 
-    width: 52%;
+    width: 60%;
     height: auto;
     margin: 40px 30px 30px 30px;
     float: left;
