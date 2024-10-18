@@ -290,8 +290,6 @@
     margin: 23px 23px 100px 23px;
 }
 
-
-
 .radbut .dark,.span1,.bright,.span2{
     float: right;
     margin: 5px;
@@ -318,7 +316,7 @@
 
 .radbut .dark:checked + .container + .contents{
     color: white;
-    background-color: rgb(20, 14, 28);
+    background-color: black;
 }
 .radbut .span1{
     cursor: pointer;
@@ -338,7 +336,7 @@
     color: blue;
 }
 
-.contents #Contacts{
-    float: left;
+.radbut .dark:checked + .contents #Certficates +img{
+    background-color: black;
 }
 
