@@ -336,7 +336,3 @@
     color: blue;
 }
 
-.radbut .dark:checked + .contents #Certficates +img{
-    background-color: black;
-}
-
