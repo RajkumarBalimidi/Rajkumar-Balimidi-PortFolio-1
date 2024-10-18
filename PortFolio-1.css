@@ -178,7 +178,7 @@
     border: 2px solid rgb(10, 72, 230); 
     border-radius: 15px;
     height: auto;
-    width: 60%;
+    width: 80%;
     flex-shrink: 1;
     flex-grow: 1;
 }
@@ -335,4 +335,5 @@
     cursor: pointer;
     color: blue;
 }
+
 
